@@ -1,0 +1,14 @@
+1 - Create a JSON object for the questions.
+2 - Add dummy data to the JSON object.
+3 - Fetch the number of questions from the JSON object.
+4 - Start creating HTML and styling CSS.
+5 - Show the question count and question category.
+6 - Show the number of bullets depending on the question count.
+7 - Create a countdown timer.
+8 - Fetch the questions from the JSON object.
+9 - Show the first question.
+10 - Check the answer and hide the current question, then show the next one.
+11 - If the time ends, mark the question as wrong and show the next question.
+12 - Add a class to the bullet after answering the question.
+13 - Set the number for the right or wrong answers.
+14 - If all questions are finished, show the result.
