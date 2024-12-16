@@ -12,3 +12,9 @@
 12 - Add a class to the bullet after answering the question.
 13 - Set the number for the right or wrong answers.
 14 - If all questions are finished, show the result.
+
+Ideas 
+
+- Create multiple JSON objects and allow the user to choose a language.
+- Add many questions and select only 10 randomly.
+- Randomize the order of answers.
