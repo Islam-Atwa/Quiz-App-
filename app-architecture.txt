@@ -18,3 +18,4 @@ Ideas
 - Create multiple JSON objects and allow the user to choose a language.
 - Add many questions and select only 10 randomly.
 - Randomize the order of answers.
+
