@@ -101,12 +101,12 @@ body{
     padding: 20px;
 }
 
-.quiz-app .bullets .span {
+.quiz-app .bullets .spans{
     flex: 1;
     display: flex;
 }
 
-.quiz-app .bullets .span span{
+.quiz-app .bullets .span{
     width: 20px;
     height: 20px;
     background-color: #ddd;
